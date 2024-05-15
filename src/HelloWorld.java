@@ -1,5 +1,5 @@
 public class HelloWorld{
   public static void main(String[] args){
-    System.out.println("方孙锦:version 1");
+    System.out.println("方孙锦12:version 1");
   }
 }
